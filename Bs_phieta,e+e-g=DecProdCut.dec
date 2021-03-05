@@ -2,7 +2,7 @@
 # 
 # Descriptor: [B_s0 -> (eta -> e+ e- gamma) (phi -> K+ K- )]cc 
 # 
-# NickName: Bs_phieta,e+e-g=Dalitz,DecProdCut
+# NickName: Bs_phieta,e+e-g=DecProdCut
 #
 # Cuts: DaughtersInLHCb
 #
